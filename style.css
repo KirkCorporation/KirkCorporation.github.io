@@ -1,0 +1,137 @@
+
+
+h1 {
+  color: #229EEE;
+  text-align: center;
+}
+
+p {
+
+  color: gold;
+  text-align: center;
+  font-size: 50px;
+}
+ .convo {
+
+   color: white;
+}
+ #name {
+
+  color: orange;
+}
+h2 {
+  text-align: center;
+  font-size: 70px;
+
+}
+#free {
+
+  color: red;
+  text-align: center;
+}
+#conversations {
+  background: pink;
+  padding:20px;
+  text-align:center;
+}
+#conversations:hover {
+  background: grey;
+}
+
+#who{
+  background:pink;
+  padding:20px;
+  text-align: center;
+}
+#who:hover{
+  background: grey;
+}
+#homepage {
+  background:pink;
+  padding:20px;
+  text-align: center;
+}
+#homepage:hover{
+  background: grey;
+}
+.convotitle {
+
+  color: purple;
+}
+.whoo {
+
+  color:#229EEE ;
+}
+img {
+  width: 700px;
+}
+#school {
+  color:purple;
+}
+
+#future {
+
+  color:#9BA3E8;
+}
+
+#class {
+
+  color:#229EEE ;
+}
+
+#quotes {
+
+  color: yellow;
+}
+
+h3 {
+  color: yellow;
+  font-size: 50px;
+  text-align: center;
+}
+#time {
+  background: pink;
+  padding:20px;
+  text-align:center;
+}
+#time:hover {
+  background: grey;
+}
+#life {
+  background: pink;
+  padding:20px;
+  text-align:center;
+}
+#life:hover {
+  background: grey;
+}
+#we {
+
+  color:white;
+  font-size: 50px;
+}
+h4 {
+
+  color:blue;
+}
+
+.freetime{
+
+  color: red;
+}
+
+.moments {
+
+  color: blue;
+}
+#kirk {
+  color:gold;
+}
+
+canvas {
+  display: block;
+  margin: 25px auto;
+}
+#man {
+  display:none;
+}
